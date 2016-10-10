@@ -5,7 +5,7 @@ function setup() {
 
 function draw() {
   //noStroke();
-  stroke( 0 , 0 , 0 , 50 );
+  stroke( 0 , 0 , 0 , 255 );
   fill( 20 , 147 , 232 , 50);
   ellipse( mouseX , mouseY , 100 , 100 );
 }
